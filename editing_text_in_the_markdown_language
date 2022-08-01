@@ -1,0 +1,8 @@
+# – highlighting the headers at the beginning of the line
+= or – – highlighting the headers of the first ("=") or second ("-") level (at least 3 characters in a row)
+**Bold font** or _ Bold font_ - use bold font
+*Italicized font* or _cursive font_ - italicized text
+***Bold italics***- text selection in bold italics
+~~Strikethrough text~~ - use of strikethrough text
+*String – unnumbered lists, a character at the beginning of the string
+1, 2, 3 at the beginning of the line – numbered lists
