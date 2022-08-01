@@ -1,0 +1,4 @@
+![Hello, this is a meatball!] (Teftelka.ipg) – at the same time, an ipg file with the name must be present in the folder.
+git ignore – exclude unnecessary files from downloading
+git log --graph – displaying commits as a tree
+git branch -d имя_ветки, которую хотим удалить

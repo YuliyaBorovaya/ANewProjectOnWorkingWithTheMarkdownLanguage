@@ -1,0 +1,5 @@
+git branch new branch name – creating a new branch in the repository folder
+git branch – displaying the branch in which we are located
+git checkout branch_name – switching from one branch to another
+git merge branch name – merge any branch with the current one
+git branch -d_name of the branch to be deleted
